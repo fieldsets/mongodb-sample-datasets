@@ -4,7 +4,7 @@ MongoDB does not provide any sample databases on their website, However, they do
 
 ## Installation
 
-The CLI command `mongoimport` and the MongoDB database tools package need to installed. You can find it [here](https://www.mongodb.com/try/download/database-tools?tck=docs_databasetools)
+The CLI command `mongoimport` and the MongoDB database tools package need to be installed. You can find them [here](https://www.mongodb.com/try/download/database-tools?tck=docs_databasetools)
 
 Using the [fieldsets-local](https://github.com/fieldsets/fieldsets-local) environment, setting the environment variable `MONGO_LOAD_SAMPLE_DATA=1`  will fetch all the necessary dependencies and data. You can use this sample data to quickly get started experimenting with the FieldSets data pipeline.
 
